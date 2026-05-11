@@ -21,7 +21,6 @@ This portfolio demonstrates my efforts in an intensive course for Power BI and a
 **Strategic Alignment:** Partnering with operations to resolve workflow bottlenecks and improve financial outcomes.
 
 * **Analytical Methodology:** Developed an "Operational Pulse" dashboard to monitor real-time agent performance, satisfaction ratings, and speed of answer.
-* **Efficiency Focus:** This dashboard mirrors the methodology I used to **shorten Accounts Payable cycles by two weeks** and optimize journal entry workflows.
 * **Resource Management:** By analyzing call volume trends by topic, this tool provides the data necessary to shift resources and maintain service level agreements.
 
 ![Live KPI Tracking](Live%20KPI%20Tracking.png)
@@ -32,7 +31,6 @@ This portfolio demonstrates my efforts in an intensive course for Power BI and a
 **Strategic Alignment:** Managing high-volume database structures and delivering ad-hoc reporting for executive leadership.
 
 * **Analytical Methodology:** Cleaned and modeled a **$12.72 Billion** federal dataset (CMS) to benchmark regional healthcare charges and payment trends.
-* **Integrity & Accuracy:** This project required the same precision I applied while auditing **195 campus-wide software assets** to ensure GASB96 regulatory compliance.
 * **Geographic Benchmarking:** Utilizing heat-mapping and provider-level slicers, the tool allows for instant comparison of total payments against Medicare coverage across the Western States.
 
 ![US Healthcare Groups](US%20Healthcare%20Groups.png)
@@ -43,7 +41,6 @@ This portfolio demonstrates my efforts in an intensive course for Power BI and a
 **Strategic Alignment:** Collaborating cross-functionally to present complex organizational data with clarity.
 
 * **Analytical Methodology:** Visualized multi-dimensional HR data to track departmental distribution, education levels, and hourly rate trends.
-* **Risk Mitigation:** By mapping demographics against travel frequency and tenure, this model provides the data foundation needed to assess and manage turnover risk.
 * **Strategic Planning:** This tool ensures labor costs remain aligned with corporate growth objectives, facilitating data-driven hiring and retention strategies.
 
 ![HR Dashboard](HR%20Dashboard.png)
