@@ -12,7 +12,7 @@ This portfolio demonstrates my efforts in an intensive course for Power BI and a
 
 **The Objective:** To replace static reporting with a dynamic engine that facilitates annual budgeting and real-time forecasting.
 
-* **Strategic Value:** This model tracks **Actual YTD vs. FY Budget** within a $246M corporate framework. It identifies critical cost-center variances before they impact year-end performance.
+* **Strategic Value:** This model tracks budgeting within a $246M corporate framework. It identifies critical cost-center variances before they impact year-end performance.
 * **Technical Depth:** Engineered using time-intelligence DAX to map disparate data across global regions, providing executive leadership with a granular look at monthly spending anomalies.
 
 * **[Download the .pbix Technical File](Budget%20Forecasting.pbix)**
@@ -40,7 +40,7 @@ This portfolio demonstrates my efforts in an intensive course for Power BI and a
 **The Objective:** To manage high-volume database structures and deliver ad-hoc reporting for senior leadership.
 
 * **Strategic Value:** I processed and modeled a **$12.72 Billion** federal dataset (CMS) to benchmark regional healthcare charges and payment trends across the Western States.
-* **Technical Depth:** This project required the same precision I applied while auditing **195 campus-wide software assets** to ensure GASB96 regulatory compliance.
+
 * **[Download the .pbix Technical File](US%20Healthcare%20Groups.pbix)**
 
 ![US Healthcare Groups Dashboard](US%20Healthcare%20Groups.png)
