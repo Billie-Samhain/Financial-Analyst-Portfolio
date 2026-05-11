@@ -1,7 +1,7 @@
 # Strategic Financial Analysis & Decision Support Portfolio
 ### **Jonathan Lishenko**
 
-This portfolio demonstrates my efforts in an intensive course for Power BI and advanced data modeling. Each project demonstrates the technical rigor required to normalize complex datasets and build the reporting tools necessary for strategic fiscal oversight—skills I have learned.
+This portfolio demonstrates my efforts in an intensive course for Power BI and advanced data modeling. Each project demonstrates the technical rigor required to normalize complex datasets and build the reporting tools necessary for strategic fiscal oversight.
 
 
 
