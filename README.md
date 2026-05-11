@@ -1,8 +1,9 @@
 # Strategic Financial Analysis & Decision Support Portfolio
-### **Jonathan Lishenko, MAcc**
+### **Jonathan Lishenko**
 
-This portfolio represents a semester-long intensive in Power BI and advanced data modeling at Utah Valley University. Each project demonstrates the technical rigor required to normalize complex datasets and build the reporting tools necessary for strategic fiscal oversight—skills I have utilized professionally to recover **$12,000 a month** in unbilled inventory and reduce reconciliation turnaround from **four days to one**.
+This portfolio demonstrates my efforts in an intensive course for Power BI and advanced data modeling. Each project demonstrates the technical rigor required to normalize complex datasets and build the reporting tools necessary for strategic fiscal oversight—skills I have learned.
 
+** CLICKING ON THE IMAGE DOWNLOADS THE PBIX FILE **
 ---
 
 ## 📈 I. Fiscal Performance & Variance Modeling
