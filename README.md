@@ -3,44 +3,57 @@
 
 This portfolio demonstrates my efforts in an intensive course for Power BI and advanced data modeling. Each project demonstrates the technical rigor required to normalize complex datasets and build the reporting tools necessary for strategic fiscal oversight—skills I have learned.
 
-** CLICKING ON THE IMAGE DOWNLOADS THE PBIX FILE **
+
 
 ---
 
-## 📈 I. Fiscal Performance & Variance Modeling
-**Strategic Alignment:** Facilitating annual budgeting processes and identifying fiscal "blind spots."
 
-* **Analytical Methodology:** Engineered a $246M budgetary framework using time-intelligence DAX to track YTD running totals and forecast accuracy.
-* **Relational Depth:** The model maps disparate data across global regions, providing granular variance analysis by IT Area and Cost Group—replacing static spreadsheets with a dynamic engine for monthly spend oversight.
+## 📈 I. Fiscal Foresight: Budgeting & Forecasting
 
-![Budget Forecasting](Budget%20Forecasting.png)
+**The Objective:** To replace static reporting with a dynamic engine that facilitates annual budgeting and real-time forecasting.
+
+* **Strategic Value:** This model tracks **Actual YTD vs. FY Budget** within a $246M corporate framework. It identifies critical cost-center variances before they impact year-end performance.
+* **Technical Depth:** Engineered using time-intelligence DAX to map disparate data across global regions, providing executive leadership with a granular look at monthly spending anomalies.
+
+* **[Download the .pbix Technical File](Budget%20Forecasting.pbix)**
+
+![Budget Forecasting Dashboard](Budget%20Forecasting.png)
+
+---
+
+
+## ⚙️ II. Operational Muscle: Live KPI Tracking
+
+**The Objective:** To partner with operations teams by turning raw workflow logs into actionable efficiency metrics.
+
+* **Strategic Value:** This "Operational Pulse" dashboard monitors real-time agent performance, satisfaction ratings, and speed of answer to eliminate silent profit-killers.
+
+* **[Download the .pbix Technical File](Live%20KPI%20Tracking.pbix)**
+
+![Live KPI Tracking Dashboard](Live%20KPI%20Tracking.png)
 
 ---
 
-## ⚙️ II. Operational Optimization: Live KPI Tracking
-**Strategic Alignment:** Partnering with operations to resolve workflow bottlenecks and improve financial outcomes.
-
-* **Analytical Methodology:** Developed an "Operational Pulse" dashboard to monitor real-time agent performance, satisfaction ratings, and speed of answer.
-* **Resource Management:** By analyzing call volume trends by topic, this tool provides the data necessary to shift resources and maintain service level agreements.
-
-![Live KPI Tracking](Live%20KPI%20Tracking.png)
-
----
 
 ## 🗺️ III. Big Data Integrity: Healthcare Geographic Trends
-**Strategic Alignment:** Managing high-volume database structures and delivering ad-hoc reporting for executive leadership.
 
-* **Analytical Methodology:** Cleaned and modeled a **$12.72 Billion** federal dataset (CMS) to benchmark regional healthcare charges and payment trends.
-* **Geographic Benchmarking:** Utilizing heat-mapping and provider-level slicers, the tool allows for instant comparison of total payments against Medicare coverage across the Western States.
+**The Objective:** To manage high-volume database structures and deliver ad-hoc reporting for senior leadership.
 
-![US Healthcare Groups](US%20Healthcare%20Groups.png)
+* **Strategic Value:** I processed and modeled a **$12.72 Billion** federal dataset (CMS) to benchmark regional healthcare charges and payment trends across the Western States.
+* **Technical Depth:** This project required the same precision I applied while auditing **195 campus-wide software assets** to ensure GASB96 regulatory compliance.
+* **[Download the .pbix Technical File](US%20Healthcare%20Groups.pbix)**
+
+![US Healthcare Groups Dashboard](US%20Healthcare%20Groups.png)
 
 ---
 
-## 👥 IV. Human Capital & Labor Analytics
-**Strategic Alignment:** Collaborating cross-functionally to present complex organizational data with clarity.
 
-* **Analytical Methodology:** Visualized multi-dimensional HR data to track departmental distribution, education levels, and hourly rate trends.
-* **Strategic Planning:** This tool ensures labor costs remain aligned with corporate growth objectives, facilitating data-driven hiring and retention strategies.
+## 👥 IV. Human Capital: Labor & Turnover Analytics
+
+**The Objective:** To collaborate cross-functionally and present complex organizational labor data with clarity.
+
+* **Strategic Value:** This dashboard transforms raw headcount data into a strategic asset, visualizing departmental distribution, education levels, and tenure to identify organizational health trends.
+
+* **[Download the .pbix Technical File](HR%20Dashboard.pbix)**
 
 ![HR Dashboard](HR%20Dashboard.png)
