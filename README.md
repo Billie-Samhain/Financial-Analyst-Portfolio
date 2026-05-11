@@ -1,55 +1,47 @@
-# Financial & Operational Analytics Portfolio
-### **Jonathan Lishenko** | Master of Accountancy & Active CPA Candidate
+# Strategic Financial Analysis & Decision Support Portfolio
+### **Jonathan Lishenko, MAcc**
 
-This portfolio demonstrates my ability to build the **operational and financial analytics platforms** required to drive strategic decision-making. Each project is designed to deliver actionable insights that improve efficiency and financial outcomes—directly reflecting the core responsibilities of the **Western States Financial Analyst** role.
-
----
-
-## 1. Multi-Regional Budgeting & Forecasting
-**Requirement Match:** *Facilitate annual budgeting processes and ongoing financial forecasting*.
-
-* **Business Impact:** Analyzes **Actual vs. Budget vs. Forecast** trends to identify monthly variance and fiscal opportunities.
-* **Technical Value:** Demonstrates advanced proficiency in complex data modeling and the ability to analyze corporate financial statements.
-
-![Budget Forecasting Dashboard](Budget%20Forecasting.png)
+This portfolio represents a semester-long intensive in Power BI and advanced data modeling at Utah Valley University. Each project demonstrates the technical rigor required to normalize complex datasets and build the reporting tools necessary for strategic fiscal oversight—skills I have utilized professionally to recover **$12,000 a month** in unbilled inventory and reduce reconciliation turnaround from **four days to one**.
 
 ---
 
-## 2. Real-Time Operational KPI Tracking
-**Requirement Match:** *Build and maintain operational analytics platforms; partner with operations to improve efficiency*.
+## 📈 I. Fiscal Performance & Variance Modeling
+**Strategic Alignment:** Facilitating annual budgeting processes and identifying fiscal "blind spots."
 
-* **Business Impact:** Tracks performance metrics to ensure service level agreements are met.
-* **Key Features:** Visualizes agent-level performance and monthly call trends to identify workflow bottlenecks—similar to the process improvements I implemented at **Penske Truck Leasing**.
+* **Analytical Methodology:** Engineered a $246M budgetary framework using time-intelligence DAX to track YTD running totals and forecast accuracy.
+* **Relational Depth:** The model maps disparate data across global regions, providing granular variance analysis by IT Area and Cost Group—replacing static spreadsheets with a dynamic engine for monthly spend oversight.
 
-![Live KPI Tracking Dashboard](Live%20KPI%20Tracking.png)
-
----
-
-## 3. Geographic Trend Analysis (Public Sector Data)
-**Requirement Match:** *Experience with database structures and ad hoc financial reporting for executive leadership*.
-
-* **Business Impact:** Maps and analyzes massive datasets (CMS Gov. Charges) to compare average payments across the **Western States** and beyond.
-* **Technical Value:** Proves capability in handling high-volume data integrity projects, building on my experience auditing **195 software assets** for GASB96 compliance.
-
-![US Healthcare Dashboard](US%20Healthcare%20Groups.png)
+![Budget Forecasting](Budget%20Forecasting.png)
 
 ---
 
-## 4. Human Capital & Labor Analytics
-**Requirement Match:** *Collaborate with cross-functional teams and present complex data clearly*.
+## ⚙️ II. Operational Optimization: Live KPI Tracking
+**Strategic Alignment:** Partnering with operations to resolve workflow bottlenecks and improve financial outcomes.
 
-* **Business Impact:** Visualizes employee demographics and **Hourly Rates** to optimize labor allocation.
-* **Key Features:** Tracks organizational health to assess turnover risk—similar to the **turnover risk mitigation** I led at Desert Industries.
+* **Analytical Methodology:** Developed an "Operational Pulse" dashboard to monitor real-time agent performance, satisfaction ratings, and speed of answer.
+* **Efficiency Focus:** This dashboard mirrors the methodology I used to **shorten Accounts Payable cycles by two weeks** and optimize journal entry workflows.
+* **Resource Management:** By analyzing call volume trends by topic, this tool provides the data necessary to shift resources and maintain service level agreements.
+
+![Live KPI Tracking](Live%20KPI%20Tracking.png)
+
+---
+
+## 🗺️ III. Big Data Integrity: Healthcare Geographic Trends
+**Strategic Alignment:** Managing high-volume database structures and delivering ad-hoc reporting for executive leadership.
+
+* **Analytical Methodology:** Cleaned and modeled a **$12.72 Billion** federal dataset (CMS) to benchmark regional healthcare charges and payment trends.
+* **Integrity & Accuracy:** This project required the same precision I applied while auditing **195 campus-wide software assets** to ensure GASB96 regulatory compliance.
+* **Geographic Benchmarking:** Utilizing heat-mapping and provider-level slicers, the tool allows for instant comparison of total payments against Medicare coverage across the Western States.
+
+![US Healthcare Groups](US%20Healthcare%20Groups.png)
+
+---
+
+## 👥 IV. Human Capital & Labor Analytics
+**Strategic Alignment:** Collaborating cross-functionally to present complex organizational data with clarity.
+
+* **Analytical Methodology:** Visualized multi-dimensional HR data to track departmental distribution, education levels, and hourly rate trends.
+* **Risk Mitigation:** By mapping demographics against travel frequency and tenure, this model provides the data foundation needed to assess and manage turnover risk.
+* **Strategic Planning:** This tool ensures labor costs remain aligned with corporate growth objectives, facilitating data-driven hiring and retention strategies.
 
 ![HR Dashboard](HR%20Dashboard.png)
-
----
-
-## Technical Proficiencies
-* **Data Tools:** Power BI, Tableau, SQL, Python, Alteryx Designer Core
-* **Accounting:** Advanced Excel (MOS Expert), GAAP/GASB, CPA Candidate
-* **Systems:** Oracle, SAP, Ellucian Banner, AS400/MAX
-
----
-
-**[LinkedIn Profile](https://linkedin.com/in/jonathanlishenko)**
